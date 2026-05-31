@@ -1,13 +1,28 @@
-Hi there!
+# Click Box Game
+## https://clicktheboxgamee.netlify.app/
 
-welcome to the offical click box game by @ebaduk117
+Created by @ebaduk117
 
-on this game you will find a moving object that seems so simple, but will make you have the most fun and take you back years to when the internet was new!
+Click Box Game is a simple browser game where players click on a moving box as many time as possible before the timer runs out.
 
-my family used to play a game like this, and used to enjoy it very much.
+The project was inspired by classic internet games i found while scrolling the web.
 
-Now its time for you to share that experience.
+## Features
 
-head to the demo and set your box color, background color, and mode. then start game.
+* Customizable box color
+* Customizable background color
+* Multiple game modes
+* Score tracking
+* 30 second gameplay sessions
 
-be prepared to have the best 30 seconds of your life!
+## How to Play
+
+1. Open the game (at https://clicktheboxgamee.netlify.app/).
+2. Choose your box color, background color, and game mode.
+3. Start the game.
+4. Click the moving box as many times as possible before the timer reaches zero.
+5. Try to beat your previous score.
+
+## Purpose
+
+This project was created as a fun web development project and in it I used HTML, CSS, and JavaScript to create this browser game.
